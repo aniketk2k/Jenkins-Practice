@@ -7,3 +7,7 @@ print("\n============================\n")
 
 print("Triggered by webhook")
 print("Finish")
+
+print("\n============================\n")
+
+print("Email Notification Added")
